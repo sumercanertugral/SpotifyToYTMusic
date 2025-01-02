@@ -1,0 +1,10 @@
+{
+    "spotify": {
+        "client_id": "YOUR_SPOTIFY_CLIENT_ID",
+        "client_secret": "YOUR_SPOTIFY_CLIENT_SECRET",
+        "playlists": ["liked"]
+    },
+    "google": {
+        "playlists": ["Spotify Beğenilen Şarkılar"]
+    }
+} 

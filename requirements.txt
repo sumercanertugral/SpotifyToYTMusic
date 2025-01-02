@@ -1,0 +1,11 @@
+certifi==2023.7.22
+chardet==3.0.4
+idna==3.7
+requests==2.31.0
+six==1.16.0
+spotipy==2.22.1
+urllib3==1.26.18
+ytmusicapi==0.20.0
+Flask==2.2.5
+gunicorn==22.0.0
+waitress==2.1.2
