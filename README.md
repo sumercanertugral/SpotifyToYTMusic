@@ -10,7 +10,7 @@ Bu araç, Spotify'daki beğendiğiniz şarkıları veya çalma listelerinizi You
 - 📊 Detaylı loglama sistemi
 - 🚀 Hata toleranslı çalışma (bulunamayan şarkıları atlayıp devam eder)
 - 🔄 Kesintisiz aktarım süreci
-
+- 🍪 cookie.png
 ## Gereksinimler
 
 - Python 3.6 veya üzeri
