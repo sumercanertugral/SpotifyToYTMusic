@@ -87,6 +87,28 @@ Program iki farklı log dosyası oluşturur:
    - Kullanıcıya bilgi verilir
    - Yeniden giriş yapması istenir
 
+4. Cookie Hataları:
+   - "401 Unauthorized" hatası alırsanız cookie'niz geçersiz olmuş olabilir
+   - Cookie alma adımlarını tekrarlayın
+   - Yeni cookie ile tekrar deneyin
+
+## Sık Karşılaşılan Sorunlar
+
+1. "404 Not Found" Hatası:
+   - Cookie bilgilerinizi kontrol edin
+   - YouTube Music hesabınızın aktif olduğundan emin olun
+   - Playlist adının uygun olduğundan emin olun
+
+2. "401 Unauthorized" Hatası:
+   - Cookie'niz geçersiz olmuş olabilir
+   - Cookie alma adımlarını tekrarlayın
+   - Yeni cookie ile tekrar deneyin
+
+3. Şarkı Bulunamama Durumu:
+   - Şarkı adı veya sanatçı adı farklı yazılmış olabilir
+   - YouTube Music'te manuel olarak arayıp kontrol edin
+   - Log dosyasından hangi şarkıların bulunamadığını görebilirsiniz
+
 ## Katkıda Bulunma
 
 1. Bu depoyu fork edin
