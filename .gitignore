@@ -1,13 +1,7 @@
-# Hassas bilgiler
-ytmusic_headers.json
-config.json
-.cache
-
 # Python
 __pycache__/
 *.py[cod]
 *$py.class
-*.so
 .Python
 env/
 build/
@@ -36,3 +30,8 @@ ENV/
 .vscode/
 *.swp
 *.swo
+
+# Project specific
+.cache
+logs/
+ytmusic_headers.json
