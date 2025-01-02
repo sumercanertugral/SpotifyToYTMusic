@@ -129,8 +129,3 @@ python3 runLocally.py
      2. Authorization header'ını `ytmusic_headers.json` dosyasına ekleyin
      3. YouTube Music hesabınızın aktif olduğunu kontrol edin
 
-## Güvenlik Notları
-
-- `config.json` ve `ytmusic_headers.json` dosyaları hassas bilgiler içerir, bu dosyaları asla paylaşmayın
-- Bu dosyalar `.gitignore`'a eklenmiştir ve GitHub'a yüklenmeyecektir
-- Örnek yapılandırma için `config.example.json` ve `ytmusic_headers.example.json` dosyalarını kullanın
